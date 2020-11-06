@@ -1,0 +1,14 @@
+com/example/a1labdarbas/Validation.java
+ com.example.a1labdarbas.Validation
+com/example/a1labdarbas/MainActivity2.java
+ com.example.a1labdarbas.MainActivity2
+com/example/a1labdarbas/BuildConfig.java
+ com.example.a1labdarbas.BuildConfig
+com/example/a1labdarbas/Register.java
+ com.example.a1labdarbas.Register
+ com.example.a1labdarbas.Register$1
+ com.example.a1labdarbas.Register$2
+com/example/a1labdarbas/MainActivity.java
+ com.example.a1labdarbas.MainActivity
+ com.example.a1labdarbas.MainActivity$1
+ com.example.a1labdarbas.MainActivity$2
